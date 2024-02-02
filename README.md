@@ -1,7 +1,7 @@
 # Phi2Hackathon
 Leveraging revolutionary Agent and Phi-2 technology, Graph Detective uncovers concealed linkages and discerns patterns, enabling pinpoint fraud detection and prevention across insurance, banking, and eCommerce with unparalleled efficiency. 
 
-# Details
+# Description
 
 Graph Detective harnesses the power of state-of-the-art Agent and Phi-2 technology to redefine fraud detection and prevention in the insurance, banking, and eCommerce sectors. By unveiling hidden connections and identifying patterns, it offers an unrivaled solution that combines Generative AI Agents with Phi-2's speed and precision, enabling investigators to tackle fraud with unparalleled efficiency and accuracy. 
 
