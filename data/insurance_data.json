@@ -1,0 +1,115 @@
+{
+  "name": "Accident Network - Potential Fraud Indicators",
+  "img": "./accidents_fraud.png",
+  "children": [
+    {
+      "name": "Accident 1",
+      "children": [
+        {
+          "role": "Driver",
+          "name": "Person 1",
+          "link": "http://accidentnetwork.chart/person_1",
+          "img": "./Person1.png",
+          "size": 50000
+        },
+        {
+          "role": "Witness",
+          "name": "Person 2",
+          "link": "http://accidentnetwork.chart/person_2",
+          "img": "./Person2.png",
+          "size": 45000
+        },
+        {
+          "role": "Lawyer",
+          "name": "Person 4",
+          "link": "http://accidentnetwork.chart/person_4",
+          "img": "./Person4.png",
+          "size": 40000
+        }
+      ]
+    },
+    {
+      "name": "Accident 2",
+      "children": [
+        {
+          "role": "Passenger",
+          "name": "Person 3",
+          "link": "http://accidentnetwork.chart/person_3",
+          "img": "./Person3.png",
+          "size": 50000
+        },
+        {
+          "role": "Driver",
+          "name": "Person 5",
+          "link": "http://accidentnetwork.chart/person_5",
+          "img": "./Person5.png",
+          "size": 45000
+        },
+        {
+          "role": "Adjuster",
+          "name": "Person 6",
+          "link": "http://accidentnetwork.chart/person_6",
+          "img": "./Person6.png",
+          "size": 40000
+        }
+      ]
+    },
+    {
+      "name": "Accident 3",
+      "children": [
+        {
+          "role": "Driver",
+          "name": "Person 1",
+          "link": "http://accidentnetwork.chart/person_1",
+          "img": "./Person1.png",
+          "size": 55000
+        },
+        {
+          "role": "Witness",
+          "name": "Person 2",
+          "link": "http://accidentnetwork.chart/person_2",
+          "img": "./Person2.png",
+          "size": 48000
+        }
+      ]
+    },
+    {
+      "name": "Accident 4",
+      "children": [
+        {
+          "role": "Driver",
+          "name": "Person 5",
+          "link": "http://accidentnetwork.chart/person_5",
+          "img": "./Person5.png",
+          "size": 47000
+        },
+        {
+          "role": "Lawyer",
+          "name": "Person 4",
+          "link": "http://accidentnetwork.chart/person_4",
+          "img": "./Person4.png",
+          "size": 42000
+        }
+      ]
+    },
+    {
+      "name": "Accident 5",
+      "children": [
+        {
+          "role": "Passenger",
+          "name": "Person 3",
+          "link": "http://accidentnetwork.chart/person_3",
+          "img": "./Person3.png",
+          "size": 52000
+        },
+        {
+          "role": "Adjuster",
+          "name": "Person 6",
+          "link": "http://accidentnetwork.chart/person_6",
+          "img": "./Person6.png",
+          "size": 43000
+        }
+      ]
+    }
+  ]
+}

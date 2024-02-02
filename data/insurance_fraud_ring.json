@@ -1,0 +1,59 @@
+{
+    "name": "Operation Phantom Claims",
+    "img": "https://via.placeholder.com/150",
+    "children": [
+        {
+            "name": "Providers",
+            "children": [
+                {
+                    "role": "Doctor",
+                    "name": "Dr. Emily Harris",
+                    "link": "Goal: To make extra income by diagnosing false injuries. Backstory: Once a respected physician, faced financial ruin and turned to insurance fraud.",
+                    "img": "https://via.placeholder.com/150"
+                },
+                {
+                    "role": "Lawyer",
+                    "name": "James Clarkson",
+                    "link": "Goal: To gain financially by filing fraudulent claims. Backstory: An ambitious lawyer with a declining career, saw opportunity in insurance fraud.",
+                    "img": "https://via.placeholder.com/150"
+                },
+                {
+                    "role": "Body Shop Owner",
+                    "name": "Mia Thompson",
+                    "link": "Goal: To boost business revenue by misrepresenting vehicle damages. Backstory: Inherited a struggling body shop and resorted to fraud to save it.",
+                    "img": "https://via.placeholder.com/150"
+                }
+            ]
+        },
+        {
+            "name": "Participants",
+            "children": [
+                {
+                    "role": "Driver",
+                    "name": "Alex Martinez",
+                    "link": "Goal: To make quick money by pretending to be involved in accidents. Backstory: Part-time student with debt, lured into the fraud for financial relief.",
+                    "img": "https://via.placeholder.com/150"
+                },
+                {
+                    "role": "Passenger",
+                    "name": "Rachel Young",
+                    "link": "Goal: To support her family financially through fraud. Backstory: A single mother, joined the fraud ring out of desperation to provide for her children.",
+                    "img": "https://via.placeholder.com/150"
+                },
+                {
+                    "role": "Pedestrian",
+                    "name": "Ethan Smith",
+                    "link": "Goal: To earn money for his startup by faking injuries. Backstory: Aspiring entrepreneur needing funds, saw the fraud as a temporary solution.",
+                    "img": "https://via.placeholder.com/150"
+                },
+                {
+                    "role": "Witness",
+                    "name": "Olivia Brown",
+                    "link": "Goal: To fund her travels through participation in the fraud scheme. Backstory: Travel enthusiast lacking funds, joined the fraud ring for financial gain.",
+                    "img": "https://via.placeholder.com/150"
+                }
+            ]
+        }
+    ]
+}
+

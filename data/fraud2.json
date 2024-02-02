@@ -1,0 +1,112 @@
+{
+ "name": "Address 1",
+ "img": "./operations.png",
+ "children": [
+  {
+   "name": "Account Holder 1",
+   "children": [
+    {
+      "role": "Credit Card 1",
+      "name": "Credit Card 1",
+      "link": "http://operationphantomclaims.chart/lawyers/jonathan_smith",
+        "img":  "https://yt3.ggpht.com/bL1xQ_58wHFjdPJrnVNsKgmJIrNuwq9A3W_OFggf6a9F8YT-PAAiKr5Cp1Q6rEvL42TueR9irw=s48-c-k-c0x00ffffff-no-rj",
+      "size": 50000
+    },
+    {
+      "role": "Bank Account 1",
+      "name": "Bank Account 1",
+      "link": "http://operationphantomclaims.chart/lawyers/emily_johnson",
+      "img":  "https://yt3.ggpht.com/ytc/AGIKgqO8nsbuMeqmVSLAhP-Dr2Qn_-aYdSCyklqYHJCKyJo=s48-c-k-c0x00ffffff-no-rj",
+      "size": 45000
+    },
+    {
+      "role": "Unsecured Loan 1",
+      "name": "Unsecured Loan 1",
+      "link": "http://operationphantomclaims.chart/lawyers/michael_davis",
+      "img":  "./CaseManager.png",
+      "size": 40000
+    },
+    {
+      "role": "Phone Number 1",
+      "name": "Phone Number 1",
+      "link": "http://operationphantomclaims.chart/lawyers/michael_davis",
+      "img":  "./CaseManager.png",
+      "size": 40000
+    },
+    {
+      "role": "SSN 1",
+      "name": "SSN 1",
+      "link": "http://operationphantomclaims.chart/lawyers/michael_davis",
+      "img":  "./CaseManager.png",
+      "size": 40000
+    }
+  ]
+  },
+  {
+   "name": "Account Holder 2",
+   "children": [
+    {
+      "role": "Credit Card 2",
+      "name": "Credit Card 2",
+      "link": "http://operationphantomclaims.chart/actors/alex_martinez",
+      "img":  "./LeadActor.png",
+      "size": 45000
+    },
+    {
+      "role": "Bank Account 2",
+      "name": "Bank Account 2",
+      "link": "http://operationphantomclaims.chart/actors/rachel_green",
+      "img":  "./SupportingActor.png",
+      "size": 40000
+    },
+    {
+      "role": "SSN 2",
+      "name": "SSN 2",
+      "link": "http://operationphantomclaims.chart/actors/rachel_green",
+      "img":  "./SupportingActor.png",
+      "size": 40000
+    },
+    {
+      "role": "Phone Number 1",
+      "name": "Phone Number 1",
+      "link": "http://operationphantomclaims.chart/lawyers/michael_davis",
+      "img":  "./CaseManager.png",
+      "size": 40000
+    }
+   ]
+  },
+  {
+   "name": "Account Holder 3",
+   "children": [
+    {
+      "role": "Bank Account 3",
+      "name": "Bank Account 3",
+      "link": "http://operationphantomclaims.chart/insiders/david_lee",
+      "img":  "./InsuranceAgent.png",
+      "size": 40000
+    },
+    {
+      "role": "Unsecured Loan 3",
+      "name": "Unsecured Loan 3",
+      "link": "http://operationphantomclaims.chart/insiders/sophia_turner",
+      "img":  "./ClaimsProcessor.png",
+      "size": 38000
+    },
+    {
+      "role": "Phone Number 2",
+      "name": "Phone Number 2",
+      "link": "http://operationphantomclaims.chart/insiders/sophia_turner",
+      "img":  "./ClaimsProcessor.png",
+      "size": 38000
+    },
+    {
+      "role": "SSN 1",
+      "name": "SSN 1",
+      "link": "http://operationphantomclaims.chart/lawyers/michael_davis",
+      "img":  "./CaseManager.png",
+      "size": 40000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,139 @@
+{
+    "name": "Claims Center",
+    "img": "https://www.svgrepo.com/show/448123/scope-expense-claims-read.svg",
+    "children": [
+        {
+          "name": "Accident 1",
+          "children": [
+            {
+              "role": "Driver 1",
+              "name": "Person 1",
+              "link": "http://accidentnetwork.chart/person_1",
+              "img": "https://www.svgrepo.com/show/214436/driving-license.svg",
+              "size": 50000
+            },
+            {
+              "role": "Witness 2",
+              "name": "Person 2",
+              "link": "http://accidentnetwork.chart/person_2",
+              "img": "https://www.svgrepo.com/show/85131/witness.svg",
+              "size": 45000
+            },
+            {
+              "role": "Lawyer 4",
+              "name": "Person 4",
+              "link": "http://accidentnetwork.chart/person_4",
+              "img": "https://www.svgrepo.com/show/492976/lawyer-explaining.svg",
+              "size": 40000
+            }
+          ]
+        },
+        {
+          "name": "Accident 2",
+          "children": [
+            {
+              "role": "Passenger 3",
+              "name": "Person 3",
+              "link": "http://accidentnetwork.chart/person_3",
+              "img": "https://www.svgrepo.com/show/340795/passenger-plus.svg",
+              "size": 50000
+            },
+            {
+              "role": "Driver 5",
+              "name": "Person 5",
+              "link": "http://accidentnetwork.chart/person_5",
+              "img": "https://www.svgrepo.com/show/214436/driving-license.svg",
+              "size": 45000
+            },
+            {
+              "role": "Adjuster 6",
+              "name": "Person 6",
+              "link": "http://accidentnetwork.chart/person_6",
+              "img": "https://www.svgrepo.com/show/223812/insurance-user.svg",
+              "size": 40000
+            },
+        
+            {
+              "role": "Lawyer 4",
+              "name": "Person 4",
+              "link": "http://accidentnetwork.chart/person_4",
+              "img": "https://www.svgrepo.com/show/492976/lawyer-explaining.svg",
+              "size": 40000
+            }
+            
+          ]
+        },
+        {
+          "name": "Accident 3",
+          "children": [
+            {
+              "role": "Driver 1",
+              "name": "Person 1",
+              "link": "http://accidentnetwork.chart/person_1",
+              "img": "https://www.svgrepo.com/show/214436/driving-license.svg",
+              "size": 55000
+            },
+            {
+              "role": "Witness 2",
+              "name": "Person 2",
+              "link": "http://accidentnetwork.chart/person_2",
+              "img": "https://www.svgrepo.com/show/85131/witness.svg",
+              "size": 48000
+            }
+          ]
+        },
+        {
+          "name": "Accident 4",
+          "children": [
+            {
+              "role": "Driver 5",
+              "name": "Person 5",
+              "link": "http://accidentnetwork.chart/person_5",
+              "img": "https://www.svgrepo.com/show/214436/driving-license.svg",
+              "size": 47000
+            },
+            {
+              "role": "Lawyer 4",
+              "name": "Person 4",
+              "link": "http://accidentnetwork.chart/person_4",
+              "img": "https://www.svgrepo.com/show/492976/lawyer-explaining.svg",
+              "size": 42000
+            },
+            {
+              "role": "Adjuster 6",
+              "name": "Person 6",
+              "link": "http://accidentnetwork.chart/person_6",
+              "img": "https://www.svgrepo.com/show/223812/insurance-user.svg",
+              "size": 43000
+            }
+          ]
+        },
+        {
+          "name": "Accident 5",
+          "children": [
+            {
+              "role": "Passenger 3",
+              "name": "Person 3",
+              "link": "http://accidentnetwork.chart/person_3",
+              "img": "https://www.svgrepo.com/show/340795/passenger-plus.svg",
+              "size": 52000
+            },
+            {
+              "role": "Adjuster 6",
+              "name": "Person 6",
+              "link": "http://accidentnetwork.chart/person_6",
+              "img": "https://www.svgrepo.com/show/223812/insurance-user.svg",
+              "size": 43000
+            },
+            {
+              "role": "Witness 2",
+              "name": "Person 2",
+              "link": "http://accidentnetwork.chart/person_2",
+              "img": "https://www.svgrepo.com/show/85131/witness.svg",
+              "size": 48000
+            }
+          ]
+        }
+
+    ]
+}
