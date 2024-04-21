@@ -1,0 +1,40 @@
+streamlit
+py2neo
+IPython
+# streamlit_agraph
+
+torch
+transformers
+einops
+
+SPARQLWrapper
+
+numpy
+pandas
+htbuilder
+streamlit
+streamlit-agraph==0.0.28
+SPARQLWrapper
+networkx
+
+
+# [-e] git+https://github.com/openlegaldata/oldp-sdk-python.git#egg=oldp-api
+# -e https://github.com/openlegaldata/oldp-sdk-python.git#egg=oldp-api
+
+
+openai
+langchain
+dedent
+unstructured
+faiss-cpu
+sec-api
+yfinance
+google-generativeai==0.3.1
+google-ai-generativelanguage==0.4.0
+streamlit
+tiktoken
+langchain_openai
+langchain-google-genai
+clarifai
+Pillow
+
